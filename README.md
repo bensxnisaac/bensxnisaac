@@ -49,15 +49,6 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bensxnisaac&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensxnisaac&layout=compact)
-
-
----
-
 ## 🎯 Career Goal
 
 To secure a Data Analyst or Business Intelligence role where I can leverage Python, SQL, and BI tools to drive data-informed strategies and business growth.
