@@ -51,9 +51,10 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 
 ## 📈 GitHub Stats
 
-![Benson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bensxnisaac&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bensxnisaac&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bensxnisaac&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bensxnisaac&layout=compact)
+
 
 ---
 
