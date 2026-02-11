@@ -49,14 +49,6 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 
 ---
 
-## 📈 GitHub Stats
-
-![Benson's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
-
----
-
 ## 🎯 Career Goal
 
 To secure a Data Analyst or Business Intelligence role where I can leverage Python, SQL, and BI tools to drive data-informed strategies and business growth.
