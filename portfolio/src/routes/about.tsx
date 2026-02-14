@@ -1,4 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { useTitle } from "../lib/useTitle";
 
 
 export const Route = createFileRoute("/about")({
@@ -7,6 +8,8 @@ export const Route = createFileRoute("/about")({
 
 
 function RootComponent() {
+  useTitle('About')
+
   return (
     <main>
       <h1>About Benson</h1>
