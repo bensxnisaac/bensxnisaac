@@ -48,6 +48,13 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 - Improving statistical and analytical thinking
 
 ---
+## Github Activities
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bensxnisaac&theme=dracula)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bensxnisaac&theme=dracula)
+
+---
 
 ## 🎯 Career Goal
 
