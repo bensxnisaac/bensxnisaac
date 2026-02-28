@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
+import { ArrowRight, GithubIcon, LinkedinIcon, Mail } from "lucide-react";
 import { useTitle } from "../lib/useTitle";
-import { GithubIcon, LinkedinIcon, Mail, ArrowRight } from "lucide-react";
 
 export const Route = createFileRoute("/")({
   component: RootComponent,
@@ -32,10 +32,10 @@ function RootComponent() {
             Benson Isaac
           </h1>
           <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-2">
-            Data & Business Analyst
+            Data Analyst | Software Engineer
           </p>
           <p className="text-base md:text-lg text-slate-500 dark:text-slate-400 max-w-2xl mx-auto">
-            Transforming data into actionable insights to drive business growth and strategic decisions
+            Building data-driven solutions and transforming insights into actionable strategies
           </p>
         </div>
 
@@ -55,6 +55,8 @@ function RootComponent() {
             Learn More About Me
           </Link>
         </div>
+
+      
 
         {/* Social Links */}
         <div className="flex items-center gap-6">
