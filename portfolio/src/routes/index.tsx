@@ -17,9 +17,9 @@ function RootComponent() {
       <div className="max-w-4xl mx-auto px-6 py-20 flex flex-col items-center justify-center min-h-[calc(100vh-64px)]">
         {/* Avatar */}
         <div className="mb-8">
-          <div className="w-32 h-32 rounded-full overflow-hidden shadow-lg bg-slate-200 dark:bg-slate-700 flex items-center justify-center">
+          <div className="w-48 h-48 rounded-full overflow-hidden shadow-lg bg-black/5 flex items-center justify-center">
             <img
-              src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+              src="/benson.png"
               alt="Benson Isaac"
               className="w-full h-full object-cover"
             />

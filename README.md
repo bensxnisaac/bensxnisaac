@@ -21,6 +21,7 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 ## 🛠️ Technical Skills
 
 ### 📌 Programming & Data Tools
+
 - Python
 - NumPy
 - Pandas
@@ -29,11 +30,13 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 - Data Warehousing (DW)
 
 ### 📊 Data Visualization & BI
+
 - Power BI
 - Tableau
 - Microsoft Excel (Advanced)
 
 ### 🤖 Other Knowledge
+
 - Artificial Intelligence (AI Fundamentals)
 - Google Workspace Tools
 - Microsoft Office Suite
@@ -48,11 +51,12 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 - Improving statistical and analytical thinking
 
 ---
+
 ## Github Activities
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bensxnisaac&theme=dracula)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bensxnisaac&theme=dracula)
+![Programming Language by Repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bensxnisaac&theme=dracula)
 
 ---
 
@@ -64,8 +68,8 @@ To secure a Data Analyst or Business Intelligence role where I can leverage Pyth
 
 ## 📫 Let's Connect
 
-- LinkedIn: https://linkedin.com/in/bensxnisaac
-- Email: bensxnisaac@gmail.com
+- [LinkedIn](https://linkedin.com/in/bensxnisaac)
+- [Email](bensxnisaac@gmail.com)
 
 ---
 
