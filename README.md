@@ -1,6 +1,6 @@
 # Hi, I'm Benson Isaac 👋
 
-## 🚀 Aspiring Data Analyst | Business Intelligence Analyst
+## 🚀 Data Analyst | Business Intelligence Analyst
 
 I am transitioning from a Web Development background into Data Analytics and Business Intelligence, driven by a passion for turning raw data into meaningful insights that support smarter business decisions.
 
@@ -27,13 +27,13 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 - Pandas
 - Seaborn
 - SQL
-- Data Warehousing (DW)
 
 ### 📊 Data Visualization & BI
 
 - Power BI
-- Tableau
-- Microsoft Excel (Advanced)
+- Microsoft Excel
+- Seaborn
+- Matplotlib
 
 ### 🤖 Other Knowledge
 
@@ -57,6 +57,8 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bensxnisaac&theme=dracula)](https://git.io/streak-stats)
 
 ![Programming Language by Repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bensxnisaac&theme=dracula)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=bensxnisaac&label=Profile%20Views&countColor=%232ccce4&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=bensxnisaac)
 
 ---
 
