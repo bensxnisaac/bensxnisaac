@@ -58,7 +58,7 @@ With a strong technical foundation and analytical mindset, I focus on solving re
 
 ![Programming Language by Repository](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bensxnisaac&theme=dracula)
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=bensxnisaac&label=Profile%20Views&countColor=%232ccce4&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=bensxnisaac)
+[![Benson Isaac profile views](https://u8views.com/api/v1/github/profiles/260860869/views/day-week-month-total-count.svg)](https://u8views.com/github/bensxnisaac)
 
 ---
 
