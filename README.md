@@ -44,8 +44,7 @@ I love solving real-world problems through technology—whether that's designing
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bensxnisaac&theme=dracula)](https://git.io/streak-stats)
-
+<img src="https://streak-stats.demolab.com?user=bensxnisaac&theme=cobalt&hide_border=true" alt="bensxnisaac's GitHub Stats" />
 ---
 
 ## 🎯 Goals
